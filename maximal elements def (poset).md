@@ -1,0 +1,1 @@
+>an [[element]] $a\in (X;\leq)$, a [[partially ordered set def|poset]] is called a **maximal element**, if:$$\forall x\in X, \text{ } a\leq x \Rightarrow a=x$$

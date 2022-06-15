@@ -1,0 +1,1 @@
+$A\cap B = \{x| x \in A \text{ or } x\in B\}$ 

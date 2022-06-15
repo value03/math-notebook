@@ -1,0 +1,1 @@
+ $|=\{ (a,b)\in \mathbb{N} \times \mathbb{N}\text{ } |\text{ } a|b \}$ 

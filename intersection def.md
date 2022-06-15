@@ -1,0 +1,1 @@
+ $A \cup B = \{x | x \in A \text{ and } x\in B\}$ 

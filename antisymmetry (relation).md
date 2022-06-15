@@ -1,0 +1,1 @@
+a [[Relation]] $p$ on a [[set]] $X$ is [[antisymmetry (relation)|antisymmetric]], if for all $x$, $y\in X$ with $x\text{ p } y \land y\text{ p } x \Leftrightarrow x=y$  

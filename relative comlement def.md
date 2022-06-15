@@ -1,0 +1,1 @@
+ $A\backslash B = \{ x | x \in A \text{ and } x \notin B \}$ 

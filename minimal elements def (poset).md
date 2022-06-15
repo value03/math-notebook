@@ -1,0 +1,1 @@
+>an [[element]] $a\in (X;\leq)$, a [[partially ordered set def|poset]] is called a **minimal element**, if:$$\forall x\in X, \text{ } x\leq a \Rightarrow a=x$$ 

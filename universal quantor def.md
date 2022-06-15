@@ -1,0 +1,1 @@
+$$\forall x P(x) \Leftrightarrow P(x)\text{ is true for all } x$$

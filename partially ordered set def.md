@@ -1,0 +1,2 @@
+> a [[Relation]] $p$ on a [[set]] $X$ is a **partial order** on $X$, if it's [[reflexivity (relation)|reflexive]], [[transitivity (relation)|transitive]] and
+>  [[antisymmetry (relation)|antisymmetric]].

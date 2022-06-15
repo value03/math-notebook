@@ -1,0 +1,1 @@
+$|M|=\Bigg\{ \begin{equation} \begin{aligned}&\text{n, if } M \text{ is finite and contains n elemnts}\\&\infty \text{, if } M \text{ is not finite}\end{aligned}\end{equation}$ 

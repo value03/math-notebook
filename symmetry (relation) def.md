@@ -1,0 +1,1 @@
+a [[Relation]] $p$ on a [[set]] $X$ is [[symmetry (relation)|symmetric]] if for all $x$, $y\in X$ with $x\text{ p } y \Leftrightarrow y\text{ p } x$.

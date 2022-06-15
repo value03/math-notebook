@@ -1,0 +1,1 @@
+ $$ \exists x P(x) \Leftrightarrow \text{there exists an } x \text{ that makes } P(x) \text{ true}$$

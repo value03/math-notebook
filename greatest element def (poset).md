@@ -1,0 +1,1 @@
+>an [[element]] $a\in (X, \geq)$, a [[partially ordered set def|poset]] is a **greatest element** of $X$ if, $$\text{for all }x\in X , \text{ } a \geq x$$

@@ -1,0 +1,1 @@
+>if a [[set]] $B$ [[contains]], $A$, $A\subseteq B$ , the [[set]] $$C_{B}(A)=B\backslash A$$ is called a **absolute complement** 

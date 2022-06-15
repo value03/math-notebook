@@ -1,0 +1,2 @@
+#proof
+if $a\in X$ is a [[greatest element def (poset)|greatest element]], for some $x\in X$ if $a\leq x$ by definition of ![[greatest element def (poset)]] also $x\leq a$ which means that $x=a$ which means that a is also a [[maximal elements def (poset)| maximal element]]   

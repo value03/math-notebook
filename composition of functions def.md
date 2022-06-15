@@ -1,0 +1,2 @@
+for [[Function|functions]] $f:X\to Y$ and $g:Y\to Z$ , the [[composition of functions|composition]] is: 
+	$g\circ f:\bigg\{ \begin{equation} \begin{aligned}&X\to Z\\ &x\mapsto g(f(x))\end{aligned}\end{equation}$ 
